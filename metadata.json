@@ -1,0 +1,6 @@
+{
+  "name": "Dhanvi Enterprises - Real Estate Bangalore",
+  "description": "Premier real estate advisory, property listings, plots, and property solutions in Bangalore, Karnataka, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
